@@ -1,0 +1,965 @@
+ID,Name,Voivodeship,Population
+1,Warszawa,Mazowieckie,1792718
+2,Kraków,Małopolskie,780796
+3,Łódź,Łódzkie,667923
+4,Wrocław,Dolnośląskie,641201
+5,Poznań,Wielkopolskie,530464
+6,Gdańsk,Pomorskie,470633
+7,Szczecin,Zachodniopomorskie,396472
+8,Bydgoszcz,Kujawsko-pomorskie,341692
+9,Lublin,Lubelskie,337788
+10,Białystok,Podlaskie,296401
+11,Katowice,Śląskie,289162
+12,Gdynia,Pomorskie,244104
+13,Częstochowa,Śląskie,215905
+14,Radom,Mazowieckie,208091
+15,Toruń,Kujawsko-pomorskie,197812
+16,Sosnowiec,Śląskie,195978
+17,Kielce,Świętokrzyskie,192468
+18,Rzeszów,Podkarpackie,198476
+19,Gliwice,Śląskie,176009
+20,Zabrze,Śląskie,169831
+21,Olsztyn,Warmińsko-mazurskie,170622
+22,Bielsko-Biała,Śląskie,168835
+23,Bytom,Śląskie,162250
+24,Zielona Góra,Lubuskie,140708
+25,Rybnik,Śląskie,136464
+26,Ruda Śląska,Śląskie,135695
+27,Opole,Opolskie,127561
+28,Tychy,Śląskie,126184
+29,Gorzów Wielkopolski,Lubuskie,121714
+30,Dąbrowa Górnicza,Śląskie,117516
+31,Elbląg,Warmińsko-mazurskie,117952
+32,Płock,Mazowieckie,117573
+33,Wałbrzych,Dolnośląskie,108944
+34,Włocławek,Kujawsko-pomorskie,107745
+35,Tarnów,Małopolskie,106748
+36,Chorzów,Śląskie,106272
+37,Koszalin,Zachodniopomorskie,105801
+38,Kalisz,Wielkopolskie,98447
+39,Legnica,Dolnośląskie,97958
+40,Grudziądz,Kujawsko-pomorskie,92894
+41,Jaworzno,Śląskie,89827
+42,Słupsk,Pomorskie,89180
+43,Jastrzębie-Zdrój,Śląskie,87322
+44,Nowy Sącz,Małopolskie,83274
+45,Jelenia Góra,Dolnośląskie,77807
+46,Siedlce,Mazowieckie,77645
+47,Mysłowice,Śląskie,74413
+48,Konin,Wielkopolskie,71935
+49,Piotrków Trybunalski,Łódzkie,71655
+50,Piła,Wielkopolskie,72184
+51,Inowrocław,Kujawsko-pomorskie,71132
+52,Lubin,Dolnośląskie,71278
+53,Ostrów Wielkopolski,Wielkopolskie,71254
+54,Suwałki,Podlaskie,69575
+55,Ostrowiec Świętokrzyski,Świętokrzyskie,66837
+56,Gniezno,Wielkopolskie,67157
+57,Stargard,Zachodniopomorskie,67430
+58,Głogów,Dolnośląskie,65757
+59,Siemianowice Śląskie,Śląskie,65845
+60,Pabianice,Łódzkie,63479
+61,Leszno,Wielkopolskie,62429
+62,Zamość,Lubelskie,62368
+63,Łomża,Podlaskie,62278
+64,Chełm,Lubelskie,60738
+65,Tomaszów Mazowiecki,Łódzkie,60860
+66,Żory,Śląskie,62815
+67,Ełk,Warmińsko-mazurskie,61782
+68,Pruszków,Mazowieckie,62742
+69,Tarnowskie Góry,Śląskie,61789
+70,Przemyśl,Podkarpackie,59337
+71,Stalowa Wola,Podkarpackie,59098
+72,Kędzierzyn-Koźle,Opolskie,59603
+73,Mielec,Podkarpackie,59754
+74,Tczew,Pomorskie,59105
+75,Bełchatów,Łódzkie,56025
+76,Biała Podlaska,Lubelskie,56760
+77,Świdnica,Dolnośląskie,55800
+78,Będzin,Śląskie,55542
+79,Zgierz,Łódzkie,55272
+80,Piekary Śląskie,Śląskie,54468
+81,Racibórz,Śląskie,54004
+82,Legionowo,Mazowieckie,53352
+83,Ostrołęka,Mazowieckie,51380
+84,Świętochłowice,Śląskie,48817
+85,Wejherowo,Pomorskie,48735
+86,Zawiercie,Śląskie,48412
+87,Rumia,Pomorskie,49672
+88,Starachowice,Świętokrzyskie,47238
+89,Skierniewice,Łódzkie,47493
+90,Wodzisław Śląski,Śląskie,47319
+91,Piaseczno,Mazowieckie,48670
+92,Starogard Gdański,Pomorskie,47037
+93,Puławy,Lubelskie,46664
+94,Tarnobrzeg,Podkarpackie,46057
+95,Krosno,Podkarpackie,45715
+96,Kołobrzeg,Zachodniopomorskie,45930
+97,Radomsko,Łódzkie,44977
+98,Dębica,Podkarpackie,44912
+99,Skarżysko-Kamienna,Świętokrzyskie,43804
+100,Otwock,Mazowieckie,44207
+101,Ciechanów,Mazowieckie,43664
+102,Kutno,Łódzkie,43051
+103,Nysa,Opolskie,43066
+104,Sieradz,Łódzkie,41142
+105,Zduńska Wola,Łódzkie,40996
+106,Świnoujście,Zachodniopomorskie,40696
+107,Mikołów,Śląskie,40994
+108,Mińsk Mazowiecki,Mazowieckie,40816
+109,Szczecinek,Zachodniopomorskie,39705
+110,Żyrardów,Mazowieckie,39331
+111,Chojnice,Pomorskie,39484
+112,Świdnik,Lubelskie,38564
+113,Bolesławiec,Dolnośląskie,38280
+114,Nowa Sól,Lubuskie,37931
+115,Malbork,Pomorskie,37898
+116,Kwidzyn,Pomorskie,38179
+117,Knurów,Śląskie,37657
+118,Oświęcim,Małopolskie,37231
+119,Jarosław,Podkarpackie,36789
+120,Żary,Lubuskie,36783
+121,Sanok,Podkarpackie,36703
+122,Oleśnica,Dolnośląskie,36757
+123,Wołomin,Mazowieckie,36623
+124,Chrzanów,Małopolskie,35881
+125,Ząbki,Mazowieckie,39051
+126,Sochaczew,Mazowieckie,35684
+127,Sopot,Pomorskie,35049
+128,Brzeg,Opolskie,34985
+129,Czechowice-Dziedzice,Śląskie,35747
+130,Olkusz,Małopolskie,34500
+131,Lębork,Pomorskie,34977
+132,Jasło,Podkarpackie,34303
+133,Cieszyn,Śląskie,33757
+134,Kraśnik,Lubelskie,33638
+135,Marki,Mazowieckie,37384
+136,Nowy Targ,Małopolskie,33212
+137,Dzierżoniów,Dolnośląskie,32647
+138,Iława,Warmińsko-mazurskie,33111
+139,Ostróda,Warmińsko-mazurskie,32547
+140,Oława,Dolnośląskie,33051
+141,Police,Zachodniopomorskie,32034
+142,Luboń,Wielkopolskie,31978
+143,Myszków,Śląskie,30988
+144,Czeladź,Śląskie,30854
+145,Grodzisk Mazowiecki,Mazowieckie,32594
+146,Żywiec,Śląskie,30526
+147,Mława,Mazowieckie,31130
+148,Pruszcz Gdański,Pomorskie,31822
+149,Września,Wielkopolskie,30965
+150,Zgorzelec,Dolnośląskie,29534
+151,Swarzędz,Wielkopolskie,29663
+152,Augustów,Podlaskie,29785
+153,Bielawa,Dolnośląskie,29318
+154,Łuków,Lubelskie,29286
+155,Bochnia,Małopolskie,29405
+156,Śrem,Wielkopolskie,29022
+157,Giżycko,Warmińsko-mazurskie,28803
+158,Krotoszyn,Wielkopolskie,28580
+159,Brodnica,Kujawsko-pomorskie,28659
+160,Nowy Dwór Mazowiecki,Mazowieckie,28615
+161,Łowicz,Łódzkie,27687
+162,Czerwionka-Leszczyny,Śląskie,27790
+163,Gorlice,Małopolskie,26770
+164,Kętrzyn,Warmińsko-mazurskie,26609
+165,Zakopane,Małopolskie,26662
+166,Turek,Wielkopolskie,26201
+167,Kłodzko,Dolnośląskie,26172
+168,Wyszków,Mazowieckie,26935
+169,Biłgoraj,Lubelskie,25978
+170,Jarocin,Wielkopolskie,26373
+171,Świecie,Kujawsko-pomorskie,25335
+172,Pszczyna,Śląskie,25622
+173,Żagań,Lubuskie,25110
+174,Reda,Pomorskie,26838
+175,Wągrowiec,Wielkopolskie,25526
+176,Bielsk Podlaski,Podlaskie,24883
+177,Wałcz,Zachodniopomorskie,24802
+178,Skawina,Małopolskie,24302
+179,Białogard,Zachodniopomorskie,23811
+180,Kościan,Wielkopolskie,23596
+181,Lubliniec,Śląskie,23430
+182,Kościerzyna,Pomorskie,23698
+183,Kobyłka,Mazowieckie,25563
+184,Kluczbork,Opolskie,23131
+185,Sandomierz,Świętokrzyskie,22803
+186,Bartoszyce,Warmińsko-mazurskie,22785
+187,Wieliczka,Małopolskie,24393
+188,Szczytno,Warmińsko-mazurskie,22671
+189,Środa Wielkopolska,Wielkopolskie,23655
+190,Jawor,Dolnośląskie,22301
+191,Świebodzice,Dolnośląskie,22539
+192,Piastów,Mazowieckie,22382
+193,Ostrów Mazowiecka,Mazowieckie,22160
+194,Wieluń,Łódzkie,21735
+195,Polkowice,Dolnośląskie,22378
+196,Goleniów,Zachodniopomorskie,21876
+197,Łaziska Górne,Śląskie,22062
+198,Nowa Ruda,Dolnośląskie,21386
+199,Zambrów,Podlaskie,21853
+200,Płońsk,Mazowieckie,21846
+201,Lubartów,Lubelskie,21488
+202,Koło,Wielkopolskie,21035
+203,Grajewo,Podlaskie,21616
+204,Świebodzin,Lubuskie,21428
+205,Mrągowo,Warmińsko-mazurskie,21179
+206,Aleksandrów Łódzki,Łódzkie,21768
+207,Rydułtowy,Śląskie,21298
+208,Opoczno,Łódzkie,20526
+209,Działdowo,Warmińsko-mazurskie,21014
+210,Gryfino,Zachodniopomorskie,20792
+211,Lubań,Dolnośląskie,20573
+212,Prudnik,Opolskie,20502
+213,Orzesze,Śląskie,21324
+214,Hajnówka,Podlaskie,20141
+215,Józefów,Mazowieckie,20768
+216,Rawicz,Wielkopolskie,20044
+217,Andrychów,Małopolskie,19646
+218,Gostyń,Wielkopolskie,20141
+219,Trzebinia,Małopolskie,19359
+220,Chełmno,Kujawsko-pomorskie,19063
+221,Sulejówek,Mazowieckie,19896
+222,Bieruń,Śląskie,19328
+223,Ozorków,Łódzkie,18988
+224,Pułtusk,Mazowieckie,19210
+225,Końskie,Świętokrzyskie,18723
+226,Pisz,Warmińsko-mazurskie,18890
+227,Tomaszów Lubelski,Lubelskie,18612
+228,Kamienna Góra,Dolnośląskie,18425
+229,Łęczna,Lubelskie,18519
+230,Sokołów Podlaski,Mazowieckie,18782
+231,Krasnystaw,Lubelskie,18254
+232,Szamotuły,Wielkopolskie,18639
+233,Wadowice,Małopolskie,18230
+234,Kęty,Małopolskie,18372
+235,Chodzież,Wielkopolskie,18117
+236,Gostynin,Mazowieckie,18265
+237,Pyskowice,Śląskie,18368
+238,Złotów,Wielkopolskie,18373
+239,Pionki,Mazowieckie,17735
+240,Myślenice,Małopolskie,18267
+241,Nakło nad Notecią,Kujawsko-pomorskie,17917
+242,Sokółka,Podlaskie,17872
+243,Oborniki,Wielkopolskie,17747
+244,Międzyrzecz,Lubuskie,17580
+245,Konstantynów Łódzki,Łódzkie,18399
+246,Sierpc,Mazowieckie,17698
+247,Strzelce Opolskie,Opolskie,17556
+248,Radlin,Śląskie,17567
+249,Kostrzyn nad Odrą,Lubuskie,17656
+250,Łańcut,Podkarpackie,17627
+251,Hrubieszów,Lubelskie,17041
+252,Zielonka,Mazowieckie,17448
+253,Bogatynia,Dolnośląskie,16913
+254,Garwolin,Mazowieckie,17563
+255,Rawa Mazowiecka,Łódzkie,17119
+256,Pleszew,Wielkopolskie,16855
+257,Łask,Łódzkie,16830
+258,Kozienice,Mazowieckie,16752
+259,Przasnysz,Mazowieckie,16979
+260,Trzcianka,Wielkopolskie,16924
+261,Konstancin-Jeziorna,Mazowieckie,16813
+262,Libiąż,Małopolskie,16764
+263,Braniewo,Warmińsko-mazurskie,16907
+264,Łomianki,Mazowieckie,17114
+265,Bytów,Pomorskie,16790
+266,Sulechów,Lubuskie,16477
+267,Brzesko,Małopolskie,16663
+268,Lędziny,Śląskie,16721
+269,Radzionków,Śląskie,16883
+270,Międzyrzec Podlaski,Lubelskie,16572
+271,Słubice,Lubuskie,16510
+272,Grójec,Mazowieckie,16714
+273,Gubin,Lubuskie,16427
+274,Nowogard,Zachodniopomorskie,16366
+275,Gryfice,Zachodniopomorskie,16130
+276,Namysłów,Opolskie,16603
+277,Olecko,Warmińsko-mazurskie,16241
+278,Krapkowice,Opolskie,15883
+279,Rypin,Kujawsko-pomorskie,15915
+280,Milanówek,Mazowieckie,16497
+281,Strzegom,Dolnośląskie,15756
+282,Dęblin,Lubelskie,15705
+283,Ustroń,Śląskie,15932
+284,Busko-Zdrój,Świętokrzyskie,15462
+285,Ropczyce,Podkarpackie,15867
+286,Lidzbark Warmiński,Warmińsko-mazurskie,15420
+287,Jelcz-Laskowice,Dolnośląskie,15550
+288,Radzyń Podlaski,Lubelskie,15330
+289,Złotoryja,Dolnośląskie,15119
+290,Łapy,Podlaskie,15347
+291,Solec Kujawski,Kujawsko-pomorskie,15563
+292,Świdwin,Zachodniopomorskie,15268
+293,Ustka,Pomorskie,15047
+294,Boguszów-Gorce,Dolnośląskie,15085
+295,Przeworsk,Podkarpackie,15017
+296,Nisko,Podkarpackie,15132
+297,Choszczno,Zachodniopomorskie,14894
+298,Limanowa,Małopolskie,15028
+299,Jędrzejów,Świętokrzyskie,14706
+300,Ząbkowice Śląskie,Dolnośląskie,14677
+301,Staszów,Świętokrzyskie,14440
+302,Grodzisk Wielkopolski,Wielkopolskie,14700
+303,Nowy Tomyśl,Wielkopolskie,14181
+304,Chełmża,Kujawsko-pomorskie,14285
+305,Siemiatycze,Podlaskie,14131
+306,Lipno,Kujawsko-pomorskie,14219
+307,Skoczów,Śląskie,14041
+308,Kartuzy,Pomorskie,14186
+309,Głowno,Łódzkie,13839
+310,Ostrzeszów,Wielkopolskie,13904
+311,Kępno,Wielkopolskie,13838
+312,Łęczyca,Łódzkie,13664
+313,Mosina,Wielkopolskie,14280
+314,Lubsko,Lubuskie,13647
+315,Pszów,Śląskie,13668
+316,Wschowa,Lubuskie,13635
+317,Żnin,Kujawsko-pomorskie,13489
+318,Leżajsk,Podkarpackie,13492
+319,Dębno,Zachodniopomorskie,13521
+320,Morąg,Warmińsko-mazurskie,13325
+321,Nidzica,Warmińsko-mazurskie,13439
+322,Barlinek,Zachodniopomorskie,13541
+323,Słupca,Wielkopolskie,13505
+324,Darłowo,Zachodniopomorskie,13459
+325,Gołdap,Warmińsko-mazurskie,13571
+326,Człuchów,Pomorskie,13386
+327,Tuchola,Kujawsko-pomorskie,13497
+328,Wąbrzeźno,Kujawsko-pomorskie,13326
+329,Głuchołazy,Opolskie,13282
+330,Brwinów,Mazowieckie,13671
+331,Chojnów,Dolnośląskie,13107
+332,Trzebnica,Dolnośląskie,13338
+333,Włodawa,Lubelskie,12839
+334,Wolsztyn,Wielkopolskie,12767
+335,Koluszki,Łódzkie,12723
+336,Niepołomice,Małopolskie,14295
+337,Kłobuck,Śląskie,12709
+338,Złocieniec,Zachodniopomorskie,12639
+339,Radzymin,Mazowieckie,13407
+340,Rabka-Zdrój,Małopolskie,12626
+341,Węgrów,Mazowieckie,12427
+342,Golub-Dobrzyń,Kujawsko-pomorskie,12318
+343,Pyrzyce,Zachodniopomorskie,12435
+344,Głubczyce,Opolskie,12348
+345,Brzeziny,Łódzkie,12329
+346,Sławno,Zachodniopomorskie,12288
+347,Brzeg Dolny,Dolnośląskie,12440
+348,Strzelin,Dolnośląskie,12373
+349,Wołów,Dolnośląskie,12252
+350,Błonie,Mazowieckie,12063
+351,Aleksandrów Kujawski,Kujawsko-pomorskie,11974
+352,Pasłęk,Warmińsko-mazurskie,12085
+353,Lubaczów,Podkarpackie,11744
+354,Góra Kalwaria,Mazowieckie,11934
+355,Janów Lubelski,Lubelskie,11585
+356,Warka,Mazowieckie,11921
+357,Szprotawa,Lubuskie,11447
+358,Dąbrowa Tarnowska,Małopolskie,11844
+359,Mogilno,Kujawsko-pomorskie,11553
+360,Góra,Dolnośląskie,11488
+361,Szydłowiec,Mazowieckie,11461
+362,Drawsko Pomorskie,Zachodniopomorskie,11343
+363,Miechów,Małopolskie,11420
+364,Ożarów Mazowiecki,Mazowieckie,12665
+365,Zdzieszowice,Opolskie,11186
+366,Wasilków,Podlaskie,11882
+367,Krosno Odrzańskie,Lubuskie,11079
+368,Milicz,Dolnośląskie,11139
+369,Węgorzewo,Warmińsko-mazurskie,11155
+370,Puck,Pomorskie,11089
+371,Myślibórz,Zachodniopomorskie,11021
+372,Brzeszcze,Małopolskie,11002
+373,Wronki,Wielkopolskie,10992
+374,Koronowo,Kujawsko-pomorskie,11004
+375,Nowa Dęba,Podkarpackie,10977
+376,Wisła,Śląskie,10964
+377,Rogoźno,Wielkopolskie,11064
+378,Kowary,Dolnośląskie,10565
+379,Nowe Miasto Lubawskie,Warmińsko-mazurskie,10657
+380,Pińczów,Świętokrzyskie,10437
+381,Czarnków,Wielkopolskie,10373
+382,Krynica-Zdrój,Małopolskie,10353
+383,Parczew,Lubelskie,10476
+384,Międzychód,Wielkopolskie,10446
+385,Biskupiec,Warmińsko-mazurskie,10576
+386,Ciechocinek,Kujawsko-pomorskie,10486
+387,Miastko,Pomorskie,10131
+388,Syców,Dolnośląskie,10287
+389,Murowana Goślina,Wielkopolskie,10380
+390,Lubawa,Warmińsko-mazurskie,10369
+391,Kolno,Podlaskie,10107
+392,Łobez,Zachodniopomorskie,9977
+393,Dobre Miasto,Warmińsko-mazurskie,9943
+394,Bukowno,Małopolskie,9923
+395,Bystrzyca Kłodzka,Dolnośląskie,9810
+396,Drezdenko,Lubuskie,9883
+397,Sulęcin,Lubuskie,9930
+398,Krzeszowice,Małopolskie,9943
+399,Włoszczowa,Świętokrzyskie,9736
+400,Mońki,Podlaskie,9905
+401,Trzebiatów,Zachodniopomorskie,9862
+402,Sztum,Pomorskie,9746
+403,Strzelce Krajeńskie,Lubuskie,9771
+404,Władysławowo,Pomorskie,9814
+405,Kudowa-Zdrój,Dolnośląskie,9693
+406,Nowy Dwór Gdański,Pomorskie,9813
+407,Czersk,Pomorskie,9870
+408,Karczew,Mazowieckie,9749
+409,Maków Mazowiecki,Mazowieckie,9539
+410,Skwierzyna,Lubuskie,9412
+411,Puszczykowo,Wielkopolskie,9530
+412,Kostrzyn,Wielkopolskie,9681
+413,Ryki,Lubelskie,9525
+414,Opalenica,Wielkopolskie,9520
+415,Blachownia,Śląskie,9420
+416,Szubin,Kujawsko-pomorskie,9571
+417,Kożuchów,Lubuskie,9231
+418,Środa Śląska,Dolnośląskie,9568
+419,Wysokie Mazowieckie,Podlaskie,9304
+420,Olesno,Opolskie,9339
+421,Czarna Białostocka,Podlaskie,9144
+422,Poniatowa,Lubelskie,8897
+423,Pobiedziska,Wielkopolskie,9470
+424,Sucha Beskidzka,Małopolskie,8990
+425,Imielin,Śląskie,9333
+426,Kolbuszowa,Podkarpackie,8868
+427,Ustrzyki Dolne,Podkarpackie,8826
+428,Sępólno Krajeńskie,Kujawsko-pomorskie,8963
+429,Oborniki Śląskie,Dolnośląskie,9068
+430,Chełmek,Małopolskie,8845
+431,Stary Sącz,Małopolskie,8986
+432,Wojkowice,Śląskie,8847
+433,Strzyżów,Podkarpackie,8716
+434,Żuromin,Mazowieckie,8679
+435,Lwówek Śląski,Dolnośląskie,8661
+436,Kamień Pomorski,Zachodniopomorskie,8627
+437,Kruszwica,Kujawsko-pomorskie,9260
+438,Orneta,Warmińsko-mazurskie,8598
+439,Ziębice,Dolnośląskie,8465
+440,Janikowo,Kujawsko-pomorskie,8592
+441,Ozimek,Opolskie,8419
+442,Prabuty,Pomorskie,8589
+443,Grodków,Opolskie,8441
+444,Kalety,Śląskie,8502
+445,Wolbrom,Małopolskie,8429
+446,Jastrowie,Wielkopolskie,8564
+447,Wieruszów,Łódzkie,8408
+448,Poręba,Śląskie,8418
+449,Opole Lubelskie,Lubelskie,8278
+450,Suchedniów,Świętokrzyskie,8185
+451,Żychlin,Łódzkie,7895
+452,Tłuszcz,Mazowieckie,8139
+453,Połaniec,Świętokrzyskie,7917
+454,Połczyn-Zdrój,Zachodniopomorskie,7940
+455,Pniewy,Wielkopolskie,8078
+456,Mszana Dolna,Małopolskie,7889
+457,Chocianów,Dolnośląskie,7735
+458,Witkowo,Wielkopolskie,7653
+459,Siechnice,Dolnośląskie,9096
+460,Kórnik,Wielkopolskie,8042
+461,Pelplin,Pomorskie,7549
+462,Lidzbark,Warmińsko-mazurskie,7596
+463,Zwoleń,Mazowieckie,7617
+464,Nasielsk,Mazowieckie,7602
+465,Praszka,Opolskie,7431
+466,Trzemeszno,Wielkopolskie,7558
+467,Zelów,Łódzkie,7405
+468,Olsztynek,Warmińsko-mazurskie,7474
+469,Sędziszów Małopolski,Podkarpackie,12396
+470,Barczewo,Warmińsko-mazurskie,7478
+471,Paczków,Opolskie,7332
+472,Barcin,Kujawsko-pomorskie,7268
+473,Brzozów,Podkarpackie,7392
+474,Miasteczko Śląskie,Śląskie,7378
+475,Poddębice,Łódzkie,7190
+476,Chojna,Zachodniopomorskie,7338
+477,Tuszyn,Łódzkie,7220
+478,Zbąszyń,Wielkopolskie,7179
+479,Zawadzkie,Opolskie,6994
+480,Gniewkowo,Kujawsko-pomorskie,7019
+481,Pieszyce,Dolnośląskie,6971
+482,Czaplinek,Zachodniopomorskie,7040
+483,Łosice,Mazowieckie,7016
+484,Sławków,Śląskie,6924
+485,Skarszewy,Pomorskie,6974
+486,Białobrzegi,Mazowieckie,6809
+487,Sobótka,Dolnośląskie,6918
+488,Kąty Wrocławskie,Dolnośląskie,7081
+489,Łazy,Śląskie,6696
+490,Łochów,Mazowieckie,6801
+491,Pajęczno,Łódzkie,6592
+492,Witnica,Lubuskie,6640
+493,Gniew,Pomorskie,6571
+494,Żarów,Dolnośląskie,6621
+495,Rudnik nad Sanem,Podkarpackie,6655
+496,Twardogóra,Dolnośląskie,6565
+497,Żukowo,Pomorskie,6743
+498,Tuchów,Małopolskie,6466
+499,Sianów,Zachodniopomorskie,6547
+500,Gogolin,Opolskie,6794
+501,Gryfów Śląski,Dolnośląskie,6467
+502,Sułkowice,Małopolskie,6651
+503,Otmuchów,Opolskie,6452
+504,Szklarska Poręba,Dolnośląskie,6584
+505,Głogów Małopolski,Podkarpackie,9830
+506,Rzepin,Lubuskie,6454
+507,Bełżyce,Lubelskie,6339
+508,Koźmin Wielkopolski,Wielkopolskie,6403
+509,Opatów,Świętokrzyskie,6320
+510,Sędziszów,Świętokrzyskie,6306
+511,Kłodawa,Wielkopolskie,6300
+512,Piława Górna,Dolnośląskie,6333
+513,Żmigród,Dolnośląskie,6423
+514,Dobczyce,Małopolskie,6413
+515,Mszczonów,Mazowieckie,6261
+516,Głuszyca,Dolnośląskie,6190
+517,Niemodlin,Opolskie,6156
+518,Polanica-Zdrój,Dolnośląskie,6167
+519,Piechowice,Dolnośląskie,6037
+520,Krzyż Wielkopolski,Wielkopolskie,6094
+521,Sulejów,Łódzkie,6103
+522,Przemków,Dolnośląskie,6045
+523,Dynów,Podkarpackie,6049
+524,Boguchwała,Podkarpackie,6166
+525,Buk,Wielkopolskie,5951
+526,Lubawka,Dolnośląskie,5894
+527,Sieraków,Wielkopolskie,5937
+528,Grybów,Małopolskie,5962
+529,Kietrz,Opolskie,5835
+530,Proszowice,Małopolskie,5944
+531,Więcbork,Kujawsko-pomorskie,5885
+532,Czarne,Pomorskie,5810
+533,Koniecpol,Śląskie,5788
+534,Stęszew,Wielkopolskie,5909
+535,Działoszyn,Łódzkie,5709
+536,Wołczyn,Opolskie,5740
+537,Wieleń,Wielkopolskie,5714
+538,Karlino,Zachodniopomorskie,5826
+539,Piwniczna-Zdrój,Małopolskie,5782
+540,Nowa Sarzyna,Podkarpackie,5715
+541,Choroszcz,Podlaskie,5965
+542,Nowe,Kujawsko-pomorskie,5679
+543,Przysucha,Mazowieckie,5734
+544,Maków Podhalański,Małopolskie,5739
+545,Pieńsk,Dolnośląskie,5731
+546,Szczawnica,Małopolskie,5612
+547,Jedlicze,Podkarpackie,5618
+548,Szczyrk,Śląskie,5671
+549,Lewin Brzeski,Opolskie,5664
+550,Stronie Śląskie,Dolnośląskie,5578
+551,Pakość,Kujawsko-pomorskie,5568
+552,Śmigiel,Wielkopolskie,5580
+553,Stąporków,Świętokrzyskie,5507
+554,Strzelno,Kujawsko-pomorskie,5563
+555,Lądek-Zdrój,Dolnośląskie,5398
+556,Szczawno-Zdrój,Dolnośląskie,5467
+557,Głogówek,Opolskie,5543
+558,Radziejów,Kujawsko-pomorskie,5438
+559,Siewierz,Śląskie,5565
+560,Ścinawa,Dolnośląskie,5526
+561,Kazimierza Wielka,Świętokrzyskie,5384
+562,Orzysz,Warmińsko-mazurskie,5473
+563,Susz,Warmińsko-mazurskie,5490
+564,Terespol,Lubelskie,5428
+565,Dąbrowa Białostocka,Podlaskie,5338
+566,Lipsko,Mazowieckie,5341
+567,Lesko,Podkarpackie,5375
+568,Międzyzdroje,Zachodniopomorskie,5274
+569,Kuźnia Raciborska,Śląskie,5195
+570,Jordanów,Małopolskie,5146
+571,Dzierzgoń,Pomorskie,5291
+572,Sejny,Podlaskie,5124
+573,Radymno,Podkarpackie,5193
+574,Czempiń,Wielkopolskie,4923
+575,Brusy,Pomorskie,5220
+576,Nowogród Bobrzański,Lubuskie,5033
+577,Szczytna,Dolnośląskie,5016
+578,Jaworzyna Śląska,Dolnośląskie,5102
+579,Wyrzysk,Wielkopolskie,5075
+580,Odolanów,Wielkopolskie,5063
+581,Zagórz,Podkarpackie,5054
+582,Debrzno,Pomorskie,5017
+583,Borne Sulinowo,Zachodniopomorskie,5008
+584,Szczebrzeszyn,Lubelskie,4920
+585,Zbąszynek,Lubuskie,4980
+586,Bolków,Dolnośląskie,4864
+587,Bychawa,Lubelskie,4784
+588,Pilzno,Podkarpackie,4961
+589,Bierutów,Dolnośląskie,4788
+590,Łaskarzew,Mazowieckie,4786
+591,Jedlina-Zdrój,Dolnośląskie,4756
+592,Muszyna,Małopolskie,4715
+593,Wolin,Zachodniopomorskie,4727
+594,Iłża,Mazowieckie,4598
+595,Nowe Skalmierzyce,Wielkopolskie,4721
+596,Kcynia,Kujawsko-pomorskie,4475
+597,Brześć Kujawski,Kujawsko-pomorskie,4551
+598,Ciechanowiec,Podlaskie,4547
+599,Karpacz,Dolnośląskie,4434
+600,Duszniki-Zdrój,Dolnośląskie,4369
+601,Supraśl,Podlaskie,4562
+602,Biecz,Małopolskie,4513
+603,Ożarów,Świętokrzyskie,4418
+604,Pilawa,Mazowieckie,4560
+605,Reszel,Warmińsko-mazurskie,4502
+606,Żarki,Śląskie,4515
+607,Zduny,Wielkopolskie,4439
+608,Kalwaria Zebrzydowska,Małopolskie,4454
+609,Golina,Wielkopolskie,4444
+610,Łabiszyn,Kujawsko-pomorskie,4480
+611,Leśna,Dolnośląskie,4344
+612,Ruciane-Nida,Warmińsko-mazurskie,4399
+613,Piotrków Kujawski,Kujawsko-pomorskie,4367
+614,Krzepice,Śląskie,4329
+615,Chęciny,Świętokrzyskie,4377
+616,Raciąż,Mazowieckie,4347
+617,Rejowiec Fabryczny,Lubelskie,4293
+618,Serock,Mazowieckie,4691
+619,Kalisz Pomorski,Zachodniopomorskie,4357
+620,Skaryszew,Mazowieckie,4309
+621,Krośniewice,Łódzkie,4207
+622,Mrocza,Kujawsko-pomorskie,4281
+623,Olszyna,Dolnośląskie,4298
+624,Słomniki,Małopolskie,4277
+625,Skoki,Wielkopolskie,4505
+626,Woźniki,Śląskie,4283
+627,Bytom Odrzański,Lubuskie,4219
+628,Jasień,Lubuskie,4188
+629,Sława,Lubuskie,4242
+630,Krobia,Wielkopolskie,4331
+631,Ogrodzieniec,Śląskie,4193
+632,Nowy Staw,Pomorskie,4188
+633,Korsze,Warmińsko-mazurskie,4121
+634,Żabno,Małopolskie,4167
+635,Nowogrodziec,Dolnośląskie,4249
+636,Resko,Zachodniopomorskie,4127
+637,Szamocin,Wielkopolskie,4188
+638,Zawidów,Dolnośląskie,4105
+639,Kleczew,Wielkopolskie,4068
+640,Świeradów-Zdrój,Dolnośląskie,3953
+641,Szczucin,Małopolskie,4128
+642,Sokołów Małopolski,Podkarpackie,4204
+643,Kowalewo Pomorskie,Kujawsko-pomorskie,4078
+644,Tarczyn,Mazowieckie,4173
+645,Gąbin,Mazowieckie,4066
+646,Mieroszów,Dolnośląskie,3927
+647,Czerwieńsk,Lubuskie,3911
+648,Biała Piska,Warmińsko-mazurskie,4025
+649,Bobolice,Zachodniopomorskie,3936
+650,Tułowice,Opolskie,3986
+651,Żelechów,Mazowieckie,3883
+652,Płoty,Zachodniopomorskie,3888
+653,Górowo Iławeckie,Warmińsko-mazurskie,3840
+654,Janowiec Wielkopolski,Kujawsko-pomorskie,3860
+655,Ośno Lubuskie,Lubuskie,3884
+656,Lipiany,Zachodniopomorskie,3870
+657,Babimost,Lubuskie,3859
+658,Iłowa,Lubuskie,3831
+659,Mirsk,Dolnośląskie,3751
+660,Okonek,Wielkopolskie,3830
+661,Podkowa Leśna,Mazowieckie,3788
+662,Drzewica,Łódzkie,3780
+663,Mikołajki,Warmińsko-mazurskie,3718
+664,Rymanów,Podkarpackie,3742
+665,Tyczyn,Podkarpackie,4021
+666,Skała,Małopolskie,3740
+667,Nowe Miasto nad Pilicą,Mazowieckie,3650
+668,Pruchnik,Podkarpackie,3734
+669,Brańsk,Podlaskie,3667
+670,Małogoszcz,Świętokrzyskie,3647
+671,Nałęczów,Lubelskie,3713
+672,Jabłonowo Pomorskie,Kujawsko-pomorskie,3703
+673,Kargowa,Lubuskie,3762
+674,Nekla,Wielkopolskie,3857
+675,Halinów,Mazowieckie,3717
+676,Barwice,Zachodniopomorskie,3668
+677,Dobrodzień,Opolskie,3654
+678,Chmielnik,Świętokrzyskie,3577
+679,Zator,Małopolskie,3600
+680,Ujście,Wielkopolskie,3591
+681,Strumień,Śląskie,3632
+682,Opatówek,Wielkopolskie,3589
+683,Wojcieszów,Dolnośląskie,3549
+684,Łeba,Pomorskie,3525
+685,Mieszkowice,Zachodniopomorskie,3550
+686,Krajenka,Wielkopolskie,3574
+687,Szczekociny,Śląskie,3491
+688,Prochowice,Dolnośląskie,3528
+689,Skórcz,Pomorskie,3585
+690,Byczyna,Opolskie,3494
+691,Kępice,Pomorskie,3524
+692,Skępe,Kujawsko-pomorskie,3529
+693,Rakoniewice,Wielkopolskie,3613
+694,Toszek,Śląskie,3544
+695,Przedbórz,Łódzkie,3414
+696,Miłosław,Wielkopolskie,3514
+697,Mrozy,Mazowieckie,3571
+698,Sompolno,Wielkopolskie,3449
+699,Kowal,Kujawsko-pomorskie,3469
+700,Stryków,Łódzkie,3401
+701,Małomice,Lubuskie,3499
+702,Myszyniec,Mazowieckie,3385
+703,Rzgów,Łódzkie,3363
+704,Szczuczyn,Podlaskie,3318
+705,Złoczew,Łódzkie,3322
+706,Alwernia,Małopolskie,3317
+707,Maszewo,Zachodniopomorskie,3340
+708,Tarnogród,Lubelskie,3279
+709,Gołańcz,Wielkopolskie,3144
+710,Wojnicz,Małopolskie,3295
+711,Kolonowskie,Opolskie,3310
+712,Kock,Lubelskie,3231
+713,Łasin,Kujawsko-pomorskie,3144
+714,Hel,Pomorskie,3165
+715,Tuliszków,Wielkopolskie,3176
+716,Warta,Łódzkie,3178
+717,Kobylin,Wielkopolskie,3226
+718,Miejska Górka,Wielkopolskie,3186
+719,Jeziorany,Warmińsko-mazurskie,3105
+720,Zakroczym,Mazowieckie,3130
+721,Chociwel,Zachodniopomorskie,3103
+722,Biała Rawska,Łódzkie,3111
+723,Radomyśl Wielki,Podkarpackie,3247
+724,Zwierzyniec,Lubelskie,3084
+725,Kańczuga,Podkarpackie,3099
+726,Radoszyce,Świętokrzyskie,3064
+727,Ślesin,Wielkopolskie,3091
+728,Pyzdry,Wielkopolskie,3072
+729,Bobowa,Małopolskie,3129
+730,Dobrzyca,Wielkopolskie,3099
+731,Krasnobród,Lubelskie,3064
+732,Mirosławiec,Zachodniopomorskie,3021
+733,Dobiegniew,Lubuskie,3011
+734,Wilamowice,Śląskie,3151
+735,Chorzele,Mazowieckie,3078
+736,Gozdnica,Lubuskie,2941
+737,Michałowo,Podlaskie,2954
+738,Lubraniec,Kujawsko-pomorskie,2904
+739,Ćmielów,Świętokrzyskie,2977
+740,Margonin,Wielkopolskie,2977
+741,Glinojeck,Mazowieckie,2963
+742,Zaklików,Podkarpackie,2939
+743,Zagórów,Wielkopolskie,2873
+744,Oleszyce,Podkarpackie,2933
+745,Uniejów,Łódzkie,2972
+746,Kunów,Świętokrzyskie,2870
+747,Lwówek,Wielkopolskie,2924
+748,Niemcza,Dolnośląskie,2905
+749,Łobżenica,Wielkopolskie,2920
+750,Mielno,Zachodniopomorskie,2857
+751,Bojanowo,Wielkopolskie,2895
+752,Baborów,Opolskie,2845
+753,Polanów,Zachodniopomorskie,2877
+754,Recz,Zachodniopomorskie,2856
+755,Daleszyce,Świętokrzyskie,2844
+756,Kałuszyn,Mazowieckie,2844
+757,Drobin,Mazowieckie,2789
+758,Sulmierzyce,Wielkopolskie,2820
+759,Rydzyna,Wielkopolskie,2943
+760,Węgliniec,Dolnośląskie,2792
+761,Ryn,Warmińsko-mazurskie,2805
+762,Poniec,Wielkopolskie,2877
+763,Ryglice,Małopolskie,2820
+764,Węgorzyno,Zachodniopomorskie,2751
+765,Czarna Woda,Pomorskie,2753
+766,Złoty Stok,Dolnośląskie,2668
+767,Kamieńsk,Łódzkie,2704
+768,Nowe Miasteczko,Lubuskie,2710
+769,Radłów,Małopolskie,2744
+770,Wąchock,Świętokrzyskie,2701
+771,Cybinka,Lubuskie,2764
+772,Knyszyn,Podlaskie,2701
+773,Pieniężno,Warmińsko-mazurskie,2662
+774,Nowy Wiśnicz,Małopolskie,2750
+775,Brzostek,Podkarpackie,2752
+776,Różan,Mazowieckie,2687
+777,Książ Wielkopolski,Wielkopolskie,2704
+778,Jastarnia,Pomorskie,2675
+779,Dziwnów,Zachodniopomorskie,2624
+780,Tolkmicko,Warmińsko-mazurskie,2611
+781,Golczewo,Zachodniopomorskie,2674
+782,Wąsosz,Dolnośląskie,2626
+783,Czerniejewo,Wielkopolskie,2657
+784,Wysoka,Wielkopolskie,2612
+785,Czyżew,Podlaskie,2620
+786,Kłecko,Wielkopolskie,2587
+787,Izbica Kujawska,Kujawsko-pomorskie,2580
+788,Wyszogród,Mazowieckie,2552
+789,Międzylesie,Dolnośląskie,2486
+790,Prószków,Opolskie,2564
+791,Pełczyce,Zachodniopomorskie,2585
+792,Leśnica,Opolskie,2552
+793,Kazimierz Dolny,Lubelskie,2537
+794,Bardo,Dolnośląskie,2466
+795,Miłakowo,Warmińsko-mazurskie,2531
+796,Piaski,Lubelskie,2511
+797,Stoczek Łukowski,Lubelskie,2457
+798,Annopol,Lubelskie,2410
+799,Borek Wielkopolski,Wielkopolskie,2485
+800,Torzym,Lubuskie,2521
+801,Pasym,Warmińsko-mazurskie,2492
+802,Tychowo,Zachodniopomorskie,2497
+803,Józefów,Lubelskie,2455
+804,Koprzywnica,Świętokrzyskie,2429
+805,Łęknica,Lubuskie,2382
+806,Stepnica,Zachodniopomorskie,2447
+807,Ciężkowice,Małopolskie,2432
+808,Zabłudów,Podlaskie,2485
+809,Koziegłowy,Śląskie,2441
+810,Gorzów Śląski,Opolskie,2438
+811,Lubycza Królewska,Lubelskie,2415
+812,Biała,Opolskie,2367
+813,Miłomłyn,Warmińsko-mazurskie,2407
+814,Radków,Dolnośląskie,2393
+815,Gościno,Zachodniopomorskie,2436
+816,Świątniki Górne,Małopolskie,2445
+817,Krynki,Podlaskie,2298
+818,Rychwał,Wielkopolskie,2340
+819,Trzciel,Lubuskie,2330
+820,Kamień Krajeński,Kujawsko-pomorskie,2338
+821,Obrzycko,Wielkopolskie,2376
+822,Bisztynek,Warmińsko-mazurskie,2295
+823,Frombork,Warmińsko-mazurskie,2284
+824,Międzybórz,Dolnośląskie,2328
+825,Lipsk,Podlaskie,2234
+826,Osieczna,Wielkopolskie,2405
+827,Czchów,Małopolskie,2324
+828,Wolbórz,Łódzkie,2293
+829,Człopa,Zachodniopomorskie,2293
+830,Dobra,Zachodniopomorskie,2272
+831,Świerzawa,Dolnośląskie,2201
+832,Drawno,Zachodniopomorskie,2216
+833,Trzcińsko-Zdrój,Zachodniopomorskie,2193
+834,Dobrzany,Zachodniopomorskie,2207
+835,Mogielnica,Mazowieckie,2171
+836,Wiązów,Dolnośląskie,2183
+837,Bodzentyn,Świętokrzyskie,2174
+838,Prusice,Dolnośląskie,2216
+839,Biały Bór,Zachodniopomorskie,2213
+840,Stawiski,Podlaskie,2123
+841,Suchowola,Podlaskie,2135
+842,Szepietowo,Podlaskie,2146
+843,Zalewo,Warmińsko-mazurskie,2112
+844,Krzanowice,Śląskie,2113
+845,Nowogród,Podlaskie,2146
+846,Łaszczów,Lubelskie,2080
+847,Błażowa,Podkarpackie,2144
+848,Sieniawa,Podkarpackie,2116
+849,Dobrzyń nad Wisłą,Kujawsko-pomorskie,2054
+850,Tyszowce,Lubelskie,2022
+851,Żerków,Wielkopolskie,2112
+852,Błaszki,Łódzkie,2032
+853,Kisielice,Warmińsko-mazurskie,2065
+854,Pogorzela,Wielkopolskie,2092
+855,Raszków,Wielkopolskie,2111
+856,Ostrów Lubelski,Lubelskie,2088
+857,Kosów Lacki,Mazowieckie,2070
+858,Dukla,Podkarpackie,2037
+859,Narol,Podkarpackie,2035
+860,Rejowiec,Lubelskie,2005
+861,Lubniewice,Lubuskie,2078
+862,Osiek,Świętokrzyskie,1960
+863,Dąbie,Wielkopolskie,1963
+864,Lubomierz,Dolnośląskie,1977
+865,Drohiczyn,Podlaskie,1921
+866,Sanniki,Mazowieckie,1914
+867,Tykocin,Podlaskie,1961
+868,Jutrosin,Wielkopolskie,1962
+869,Sępopol,Warmińsko-mazurskie,1868
+870,Pilica,Śląskie,1911
+871,Brok,Mazowieckie,1885
+872,Grabów nad Prosną,Wielkopolskie,1908
+873,Cieszanów,Podkarpackie,1900
+874,Ińsko,Zachodniopomorskie,1881
+875,Ostroróg,Wielkopolskie,1919
+876,Szadek,Łódzkie,1895
+877,Tuczno,Zachodniopomorskie,1917
+878,Sośnicowice,Śląskie,1938
+879,Chodecz,Kujawsko-pomorskie,2266
+880,Nieszawa,Kujawsko-pomorskie,1823
+881,Radzyń Chełmiński,Kujawsko-pomorskie,1777
+882,Bieżuń,Mazowieckie,1824
+883,Mikstat,Wielkopolskie,1792
+884,Korfantów,Opolskie,1757
+885,Goniądz,Podlaskie,1791
+886,Mordy,Mazowieckie,1703
+887,Iwonicz-Zdrój,Podkarpackie,1722
+888,Młynary,Warmińsko-mazurskie,1756
+889,Wleń,Dolnośląskie,1709
+890,Chocz,Wielkopolskie,1770
+891,Zawichost,Świętokrzyskie,1701
+892,Ujazd,Opolskie,1735
+893,Przecław,Podkarpackie,1790
+894,Wielichowo,Wielkopolskie,1753
+895,Krzywiń,Wielkopolskie,1721
+896,Urzędów,Lubelskie,1670
+897,Morawica,Świętokrzyskie,1699
+898,Nowe Brzesko,Małopolskie,1651
+899,Przedecz,Wielkopolskie,1612
+900,Zakliczyn,Małopolskie,1618
+901,Jedwabne,Podlaskie,1597
+902,Moryń,Zachodniopomorskie,1605
+903,Otyń,Lubuskie,1657
+904,Łagów,Świętokrzyskie,1528
+905,Rajgród,Podlaskie,1527
+906,Cedynia,Zachodniopomorskie,1484
+907,Dolsk,Wielkopolskie,1553
+908,Stawiszyn,Wielkopolskie,1442
+909,Suchań,Zachodniopomorskie,1431
+910,Baranów Sandomierski,Podkarpackie,1424
+911,Modliborzyce,Lubelskie,1451
+912,Frampol,Lubelskie,1427
+913,Stopnica,Świętokrzyskie,1408
+914,Ulanów,Podkarpackie,1421
+915,Jaraczewo,Wielkopolskie,1393
+916,Siedliszcze,Lubelskie,1403
+917,Kołaczyce,Podkarpackie,1426
+918,Lubień Kujawski,Kujawsko-pomorskie,1363
+919,Dobra,Wielkopolskie,1343
+920,Górzno,Kujawsko-pomorskie,1406
+921,Krynica Morska,Pomorskie,1284
+922,Skalbmierz,Świętokrzyskie,1263
+923,Szlichtyngowa,Lubuskie,1268
+924,Kleszczele,Podlaskie,1211
+925,Nowe Warpno,Zachodniopomorskie,1176
+926,Suraż,Podlaskie,980
+927,Józefów nad Wisłą,Lubelskie,896
+928,Działoszyce,Świętokrzyskie,887
+929,Wyśmierzyce,Mazowieckie,894
+930,Wiślica,Świętokrzyskie,506
+931,Kamieniec Ząbkowicki,Dolnośląskie,4490
+932,Pruszcz,Kujawsko-pomorskie,2666
+933,Goraj,Lubelskie,926
+934,Izbica,Lubelskie,478
+935,Kamionka,Lubelskie,1696
+936,Piątek,Łódzkie,1674
+937,Lutomiersk,Łódzkie,1578
+938,Bolimów,Łódzkie,964
+939,Lututów,Łódzkie,2249
+940,Koszyce,Małopolskie,770
+941,Solec nad Wisłą,Mazowieckie,935
+942,Cegłów,Mazowieckie,2226
+943,Czerwińsk nad Wisłą,Mazowieckie,1004
+944,Nowe Miasto,Mazowieckie,1644
+945,Sochocin,Mazowieckie,1909
+946,Jedlnia-Letnisko,Mazowieckie,3982
+947,Lubowidz,Mazowieckie,1633
+948,Wiskitki,Mazowieckie,1332
+949,Dubiecko,Podkarpackie,871
+950,Olsztyn,Śląskie,2540
+951,Nowy Korczyn,Świętokrzyskie,912
+952,Pacanów,Świętokrzyskie,1141
+953,Wodzisław,Świętokrzyskie,1088
+954,Opatowiec,Świętokrzyskie,338
+955,Nowa Słupia,Świętokrzyskie,1346
+956,Pierzchnica,Świętokrzyskie,1155
+957,Iwaniska,Świętokrzyskie,1322
+958,Klimontów,Świętokrzyskie,1862
+959,Oleśnica,Świętokrzyskie,1786
+960,Szydłów,Świętokrzyskie,1090
+961,Wielbark,Warmińsko-mazurskie,2960
+962,Budzyń,Wielkopolskie,4489
+963,Koźminek,Wielkopolskie,1940
+964,Kaczory,Wielkopolskie,2904
